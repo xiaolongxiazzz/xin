@@ -71,7 +71,9 @@
         }
     }
 
-
+    var testconflict = function(){
+      console.log('conflict ....');
+    }
 
     var btn=document.getElementById("btn");
     var btns=btn.children;   
