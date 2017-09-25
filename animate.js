@@ -82,7 +82,7 @@
       console.log('conflict ....');
     }
     var testconflict2 = function(){
-      console.log('conflict ....');
+      console.log('conflict ....修改同一行使用webstrom解决冲突');
 
     }
 
