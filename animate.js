@@ -82,6 +82,10 @@
       console.log('conflict ....');
 
     }
+    var testconflict2 = function(){
+      console.log('conflict ....');
+
+    }
 
     var btn=document.getElementById("btn");
     var btns=btn.children;   
