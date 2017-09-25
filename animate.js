@@ -71,11 +71,16 @@
         }
     }
 
+
     /**
     * test merge
     */
     var testmerge = function(){
       console.log('merge ....');
+    }
+    var testconflict = function(){
+      console.log('conflict ....');
+
     }
 
     var btn=document.getElementById("btn");
