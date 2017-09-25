@@ -71,7 +71,12 @@
         }
     }
 
-
+    /**
+    * test merge
+    */
+    var testmerge = function(){
+      console.log('merge ....');
+    }
 
     var btn=document.getElementById("btn");
     var btns=btn.children;   
