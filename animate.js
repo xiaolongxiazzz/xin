@@ -82,7 +82,7 @@
       console.log('conflict ....');
     }
     var testconflict2 = function(){
-      console.log('conflict ....');
+      console.log('conflict 1123123....');
 
     }
 
