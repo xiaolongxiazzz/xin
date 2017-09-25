@@ -78,9 +78,8 @@
     var testmerge = function(){
       console.log('merge ....');
     }
-    var testconflict = function(){
+    var conflicttest = function(){
       console.log('conflict ....');
-
     }
 
     var btn=document.getElementById("btn");
